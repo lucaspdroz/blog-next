@@ -3,7 +3,7 @@ const nextConfig = {
     output: 'export',
     reactStrictMode: true,
     // basePath: '/github-pages',
-    basePath: '/github-pages/blog',
+    basePath: 'https://lucaspdroz.github.io/blog/',
 }
 
 module.exports = nextConfig
